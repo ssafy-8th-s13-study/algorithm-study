@@ -1,4 +1,3 @@
-package boj;
 //[BOJ] 1935. 후위 표기식2
 
 import java.io.BufferedReader;
