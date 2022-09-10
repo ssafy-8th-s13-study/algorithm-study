@@ -29,7 +29,7 @@ public class Main_BJ_12100_2048Easy {
 		if (cnt == 5) {
 			int tmpMatrix[][] = new int[N + 1][N + 1];
 			for (int i = 1; i <= N; i++) {
-				for (int j = 1; j < N; j++) {
+				for (int j = 1; j <= N; j++) {
 					tmpMatrix[i][j] = matrix[i][j];
 				}
 			}
